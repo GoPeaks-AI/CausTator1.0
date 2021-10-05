@@ -3,7 +3,27 @@ CausTator (Causality Annotator) 1.0 is free annotation software for users who ha
 
 User guide below
 
+A list of causal trigger words:
 
+because of,
+as a result,
+thus,
+hence,
+so,
+as,
+provided that,
+in order to,
+given that,
+cause,
+lead to,
+contribute to,
+consequently,
+therefore,
+accordingly,
+as a consequence,
+due to,
+owing to,
+result from
 
 https://user-images.githubusercontent.com/59463770/134023031-0a0c9c61-e177-4434-99ea-a347f98a09cf.mp4
 
